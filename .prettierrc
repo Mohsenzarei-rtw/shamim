@@ -7,5 +7,6 @@
   "bracketSpacing": true,
   "jsxBracketSameLine": true,
   "importOrderSeparation": true,
-  "importOrderSortSpecifiers": true
+  "importOrderSortSpecifiers": true,
+  "plugins": ["prettier-plugin-tailwindcss"]
 }
